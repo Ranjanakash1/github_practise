@@ -1,0 +1,22 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    width: 100%;
+    height: 50vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    background-color: blueviolet;
+}
+
+.child {
+    width: 50%;
+    height: 50%;
+    background-color: white;
+    border-radius: 50px;
+}
